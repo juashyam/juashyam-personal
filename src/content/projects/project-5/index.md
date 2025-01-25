@@ -18,13 +18,19 @@ It is highly influenced by my personal usage, not ready for production. Please f
 
 Instead of installing the extension from the Store, you'll install it locally, so that you can possibly modify it and quickly test the changes.
 
-Clone this repository and follow the instructions below for your respective browser.
+Clone this [repository](https://github.com/juashyam/nokey-password-keeper) and follow the instructions below for your respective browser.
 
 [Installation in Chrome](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 
 [Installation in Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension#install-the-sample-locally)
 
 **Note:** Select the **src** directory which contains the extension's source files, such as manifest.json, and then click the Select Folder button.
+
+## 📄 Configuration
+
+Edit `src/data/password.json` file to add/update/delete accounts and reload the extension in browser.
+
+![NoKey Configuration](/nokey_configuration.png)
 
 ## 🖥 Preview
 ![NoKey](/nokey_preview.png)
