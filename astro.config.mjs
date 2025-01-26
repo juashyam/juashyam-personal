@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 import netlify from "@astrojs/netlify";
 
 export default defineConfig({
-  site: "https://astro-nano-demo.vercel.app",
+  site: "https://juashyam.com",
   integrations: [mdx(), sitemap(), tailwind()],
   adapter: netlify(),
 });

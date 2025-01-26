@@ -11,7 +11,7 @@ export const SITE: Site = {
 export const HOME: Metadata = {
   TITLE: "Home",
   DESCRIPTION:
-    "Juashyam - A collection of articles on topics I am passionate about.",
+    "juashyam - A collection of articles on topics I am passionate about.",
 };
 
 export const BLOG: Metadata = {
