@@ -1,0 +1,47 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import PageLayout from "@layouts/PageLayout.astro";
+import Container from "@components/Container.astro";
+import ArrowCard from "@components/ArrowCard.astro";
+import { ABOUT } from "@consts";
+---
+
+<PageLayout title={ABOUT.TITLE} description={ABOUT.DESCRIPTION}>
+  <Container>
+    <div class="space-y-10">
+      <div class="animate font-semibold text-black dark:text-white">
+      {ABOUT.DESCRIPTION}
+      </div>
+      <div class="space-y-4">
+        <p class="animate">
+            It all started when a friend introduced me to the magical world of
+            programming, casually mentioning C++ and how code could build almost
+            anything. That was it—I was hooked!
+        </p>
+        <p class="animate">
+            My journey began with C++ and Java. In the early days, I spent countless hours
+            tinkering with Java on Netbeans, relying heavily on its autocomplete and
+            documentation to learn the ropes. It was messy, it was fun, and it was the start
+            of something I didn’t know would become such a big part of my life.
+        </p>
+        <p class="animate">
+            Fast forward to my first job, and I found myself diving into the world of
+            commerce, where I met Magento (now Adobe Commerce). It’s been a wild ride
+            ever since, working with top Magento partners around the globe, solving
+            problems, building solutions, and learning a ton along the way.
+        </p>
+        <p class="animate">
+            But my curiosity doesn’t stop there. I love dabbling with new technologies, exploring
+            open-source projects, and building online tools that might just make someone’s day a
+            little easier. These days, I’m having a blast playing around with Rust, and who knows
+            where that will lead?
+        </p>
+        <p class="animate">
+            This space is where I share my thoughts, experiments, and the occasional “aha!” moment.
+            Whether you’re here to learn, laugh, or just geek out with me, I’m glad you stopped by.
+            Let’s dive in! 🚀
+        </p>
+      </div>
+    </div>
+  </Container>
+</PageLayout>

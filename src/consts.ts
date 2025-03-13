@@ -14,6 +14,11 @@ export const HOME: Metadata = {
     "juashyam - A collection of articles on topics I am passionate about.",
 };
 
+export const ABOUT: Metadata = {
+  TITLE: "About me",
+  DESCRIPTION: "Hi there! Welcome to my little corner of the internet!",
+};
+
 export const BLOG: Metadata = {
   TITLE: "Blog",
   DESCRIPTION: "A collection of articles on topics I am passionate about.",
