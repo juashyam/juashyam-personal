@@ -18,19 +18,15 @@ All data is stored locally, ensuring privacy and quick access. Download NoKey to
 
 ### Edge
 
-On the extension’s page, click the Get to install.
+On the extension’s page, click the `Get` to install.
 
 https://microsoftedge.microsoft.com/addons/detail/nokey-a-stupid-password/cfmibhgbkfignakcnbdilfegilgolmed
 
 ### Chrome
 
-It is not deployed to Chrome Extension Store yet. So, instead of installing the extension from the Store, we'll have to install it locally.
+On the extension’s page, click the `Add to Chrome` to install.
 
-Clone this [repository](https://github.com/juashyam/nokey-password-keeper) and follow the instructions below.
-
-[Installation in Chrome](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
-
-**Note:** Select the **src** directory which contains the extension's source files, such as manifest.json, and then click the Select Folder button.
+https://chromewebstore.google.com/detail/nokey-a-stupid-password-k/flgnhemdabkddgihcpaklcbgpmfelaeh?authuser=0&hl=en
 
 ## 🎯 Who Is NoKey For?
 NoKey is perfect for:

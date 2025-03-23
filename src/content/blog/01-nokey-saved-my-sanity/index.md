@@ -78,11 +78,11 @@ extension that makes my day 10x easier**.
 If you’re like me—constantly logging into different sites and testing accounts—**NoKey
 might just save your sanity too**.
 
-🔹 Download NoKey for **Chrome/Edge** (Coming soon to the Web Store!)
+🔹 Download NoKey for **Chrome/Edge**.
+
+[Chrome Extension](https://chromewebstore.google.com/detail/nokey-a-stupid-password-k/flgnhemdabkddgihcpaklcbgpmfelaeh?authuser=0&hl=en)
 
 [Edge Extension](https://microsoftedge.microsoft.com/addons/detail/nokey-a-stupid-password/cfmibhgbkfignakcnbdilfegilgolmed)
-
-[Chrome Extension - In Review](/projects/project-nokey#-installation)
 
 🔹 Give it a spin, and let me know what you think!
 
